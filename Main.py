@@ -1,4 +1,4 @@
-rom typing import List
+from typing import List
 
 def insertionSort(array) -> List[int]:
   # Write your code here
